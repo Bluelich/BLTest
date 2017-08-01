@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BLTest'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'BLTest(My Test).'
 
 # This description is used to generate tags and improve search results.
@@ -36,7 +36,7 @@ TODO: The description of My BLTest.
   #   'BLTest' => ['BLTest/Assets/*.png']
   # }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'BLTest/Classes/**/*.h'
   s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'AFNetworking', '~> 2.3'
 end
