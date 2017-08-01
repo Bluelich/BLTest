@@ -1,0 +1,22 @@
+{
+  "name": "BLTest",
+  "version": "0.1.0",
+  "summary": "A short description of BLTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bluelich/BLTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bluelich": "bluelich@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Bluelich/BLTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BLTest/Classes/**/*"
+}
